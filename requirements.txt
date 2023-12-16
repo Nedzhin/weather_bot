@@ -1,0 +1,5 @@
+#chat_bot
+openai
+python-telegram-bot
+
+requests
